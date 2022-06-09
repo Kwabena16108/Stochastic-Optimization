@@ -5,3 +5,5 @@ This script implements 4 randomized algorithms and applies them to different pro
 2. Simulated Annealing
 3. Genetic Algorithm
 4. MIMIC
+
+js;kfJ
